@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">EndeSun_redes2</string>
+    <string name="descriptionPhoto">Foto sacada</string>
+    <string name="takePhoto">Tomar foto</string>
+
+</resources>
